@@ -1,12 +1,12 @@
-Hello, I'm Evan, a dedicated Support Engineer and SRE/DevOps enthusiast with a rich history of navigating the complex landscapes of support engineering. My journey is marked by a relentless pursuit of excellence in troubleshooting, incident management, and monitoring, underpinned by a deep passion for self-hosting and home lab experimentation.
+Yo what's good, I'm Evan.
 
 ## 💼 Professional Pathway
 
-With years in the trenches of tech support and operations, I've developed a keen sense for solving intricate problems, ensuring systems not only run but thrive under my watch. My expertise spans across:
+I got years in the trenches of tech support and operations, I've developed a keen sense for solving intricate problems, ensuring systems not only run but thrive under my watch. My expertise spans across:
 
-- **Incident Management & Troubleshooting:** Mastering the art of calm in the digital storm. 
+- **Incident Management & Troubleshooting:** Staying cool when systems are in chaos.
 - **Monitoring & Observability:** Crafting transparent systems that speak volumes, leveraging tools like Prometheus, Grafana, and Loki to keep a pulse on operations.
-- **Container Orchestration & Automation:** Orchestrating containers with Docker Compose, fine-tuning services in my homelab like Plex, and ensuring seamless service delivery.
+- **Container Orchestration & Automation:** Automating home lab with docker compose, to production stacks using Kubernetes and Docker Swarm
 - **Self-Hosting & Home Labs:** Building and managing a personal cloud that mirrors the resilience and efficiency of enterprise-grade environments.
 
 ## 🛠 Tech Toolbox
